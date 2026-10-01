@@ -1,56 +1,41 @@
-# 👋 Hello, World!
+<div align="center">
 
-### 💻 Developer | Python | Web Development | Open Source
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hello%2C%20World!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descSize=20" width="100%"/>
 
-Welcome to my GitHub profile! 🚀
+<br>
 
-I enjoy building useful software, web applications, automation tools,
-Telegram bots, and educational projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Web+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Telegram+Bot+Developer+%F0%9F%A4%96;Automation+Enthusiast+%E2%9A%A1;Building+Useful+Digital+Projects+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" />
 
----
+<br><br>
 
-## 🧑‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=latestonlineapply&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
-- 💻 Web Development
-- 🐍 Python Development
-- ⚡ JavaScript
-- 🌐 Web Applications
-- 🤖 Telegram Bots
-- 🛠️ Online Tools
-- 🔌 API Integration
-- ☁️ GitHub & Vercel
-- 📚 Educational Projects
+</div>
 
 ---
 
-## 🚀 Tech Stack
+<div align="center">
 
-### Languages
+# 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Web Developer • 🐍 Python • 🤖 Telegram Bots • ⚡ Automation
 
-### Frameworks & Platforms
+I enjoy turning ideas into useful, practical and easy-to-use
+digital projects.
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
 
 ---
 
-## 🔥 What I Build
+## 🚀 What I Do
 
 ```text
-🌐 Web Applications
-🐍 Python Projects
-🤖 Telegram Bots
-🛠️ Online Tools
-📚 Educational Projects
-🔌 API Integrations
+🌐 Web Development
+🐍 Python Development
+🤖 Telegram Bot Development
 ⚡ Automation
-📊 Admin Dashboards
-💳 Payment Systems
+🔌 API Integration
+🛠️ Online Tools
+📊 Dashboard Systems
+📚 Educational Projects
+☁️ Cloud Deployment
