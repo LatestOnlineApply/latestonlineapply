@@ -39,3 +39,29 @@ digital projects.
 📊 Dashboard Systems
 📚 Educational Projects
 ☁️ Cloud Deployment
+┌─────────────────────────────────────────┐
+│             WEB DEVELOPMENT             │
+├─────────────────────────────────────────┤
+│ HTML • CSS • JavaScript • PHP           │
+│ WordPress • Flask • REST APIs            │
+└─────────────────────────────────────────┘
+
+┌─────────────────────────────────────────┐
+│          PYTHON DEVELOPMENT             │
+├─────────────────────────────────────────┤
+│ Python • Flask • APIs • Automation      │
+│ Databases • Backend Applications         │
+└─────────────────────────────────────────┘
+
+┌─────────────────────────────────────────┐
+│          TELEGRAM DEVELOPMENT           │
+├─────────────────────────────────────────┤
+│ Bots • Commands • Menus • Automation    │
+│ Notifications • APIs • Digital Systems  │
+└─────────────────────────────────────────┘
+
+┌─────────────────────────────────────────┐
+│             DEPLOYMENT                  │
+├─────────────────────────────────────────┤
+│ GitHub • Vercel • Cloud Applications    │
+└─────────────────────────────────────────┘
